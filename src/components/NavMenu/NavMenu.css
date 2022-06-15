@@ -1,0 +1,8 @@
+.nav-menu {
+    display: flex;
+    gap: 10px;
+}
+
+.nav-menu div:first-child {
+    font-weight: bold;
+}

@@ -1,0 +1,11 @@
+.current-train {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
+.current-train__title {
+    text-align: center;
+    font-size: 30px;
+}

@@ -1,0 +1,12 @@
+.start-train-btn {
+    padding: 16px;
+    border-radius: 6px;
+    background-color: #397bba;
+    color: white;
+    user-select: none;
+}
+
+.start-train-btn:hover {
+    cursor: pointer;
+    background-color: #86b8e6;
+}
